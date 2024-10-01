@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Create the project root directory
 mkdir -p project
